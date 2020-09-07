@@ -13,7 +13,7 @@
 - Quantecon and numba error [\#536](https://github.com/QuantEcon/QuantEcon.py/issues/536)
 - \[Test\] Setup test for `add\_rank\_size`  [\#519](https://github.com/QuantEcon/QuantEcon.py/issues/519)
 
-**Merged pull requests:**
+**Merged pull requests:**haha
 
 - FIX: rank-size test by inc. sample size [\#556](https://github.com/QuantEcon/QuantEcon.py/pull/556) ([bktaha](https://github.com/bktaha))
 - update version for new release of 0.4.8 [\#555](https://github.com/QuantEcon/QuantEcon.py/pull/555) ([mmcky](https://github.com/mmcky))
